@@ -9,6 +9,9 @@
   <a href="https://www.hackerrank.com/owaisalisyed_8" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+  <a href="https://www.leetcode.com/owaisalisyed/" target="_blank">
+    <img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" width="40" height="40" alt="leetcode logo"  />
+  </a>
 </div>
 
 ###
